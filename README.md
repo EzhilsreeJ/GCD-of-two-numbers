@@ -26,7 +26,7 @@ def gcd():
 ```
 
 ## output:
-![Alt text](OUTPUT.jpg)
+![Alt text](OUTPUT.png)
 
 
 ## Result:
